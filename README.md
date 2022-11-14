@@ -6,7 +6,8 @@
 
 You can control andeoid mobile send image (jpg, png), 
 Image Rat Support android 12
-
+# Download
+<a href="https://zennashop.com/product/image-rat/" target="_blank">Download</a>
 ## Features
 
 - control screen 
