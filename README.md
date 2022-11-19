@@ -7,8 +7,8 @@
 You can control andeoid mobile send image (jpg, png), 
 Image Rat Support android 12
 # payment methods 50$
-BTC 1BSfKYv6G31KTHMnZ958nF2iReT8aBLm1
-USDT (ERC20)  0xe585862f31fb1f4ee69b9eee8b524fe559e9ca36
+## BTC 1BSfKYv6G31KTHMnZ958nF2iReT8aBLm1
+## USDT (ERC20)  0xe585862f31fb1f4ee69b9eee8b524fe559e9ca36
 # Download
 <a href="https://zennashop.com/product/image-rat/" target="_blank">Download</a>
 ## Features
