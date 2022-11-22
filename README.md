@@ -6,6 +6,9 @@
 
 You can control andeoid mobile send image (jpg, png), 
 Image Rat Support android 12
+## demo video
+https://youtu.be/OyJQrygTcjM
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prorat37)
 # payment methods 50$
 ## BTC 1BSfKYv6G31KTHMnZ958nF2iReT8aBLm1
 ## USDT (ERC20)  0xe585862f31fb1f4ee69b9eee8b524fe559e9ca36
