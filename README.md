@@ -9,7 +9,7 @@
 # Image Rat
 
 You can control andeoid mobile send image (jpg, png), 
-Image Rat Support android 12
+Image Rat Support android 13
 ## demo video
 https://youtu.be/OyJQrygTcjM
 ## telegram
@@ -33,7 +33,7 @@ https://youtu.be/OyJQrygTcjM
 - Show SMS
 - Record Call
 - Runs In Background
-- Support Android v5 - v12
+- Support Android v5 - v13
 - No Port Forwarding Needed
 - Fully Undetectable
 - Call log
