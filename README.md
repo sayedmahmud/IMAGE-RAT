@@ -17,8 +17,7 @@ https://youtu.be/OyJQrygTcjM
 # payment methods 
 ## BTC 1BSfKYv6G31KTHMnZ958nF2iReT8aBLm1
 ## USDT (ERC20)  0xe585862f31fb1f4ee69b9eee8b524fe559e9ca36
-# Download
-<a href="https://zennashop.com/product/image-rat/" target="_blank">Download</a>
+
 ## Features
 
 - control screen 
